@@ -62,6 +62,3 @@ I am deeply interested in **Generative AI**, **Data Science**, and the ever-evol
 ### 🚀 **Explore my repositories and feel free to connect!**
 
 ---
-
-### _Optional Description:_  
-**Data Science Specialist | Generative AI Enthusiast | Passionate about analytics, AI, and continuous learning.**
