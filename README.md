@@ -4,22 +4,24 @@
 👋 Hi there! Welcome to my GitHub profile!  
 I am a **Data Science Specialist** at **Accenture** with over **9 years of experience** in software development, data science, and analytics. I am passionate about deriving insights from data and building innovative AI-driven solutions.  
 
----#![GitHub Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Alok's+GitHub+Profile) 
+-----
 
 ## 👨‍🎓 **Educational Background**  
-🎓 **B.Tech** in **Electronics and Instrumentation Engineering** (2013)  
 🎓 **MBA** in **Business Analytics** from **SCMHRD** (2019)  
+🎓 **B.Tech** in **Electronics and Instrumentation Engineering** (2013)  
 
 ---
 
 ## 💼 **Professional Journey**  
 I have had the privilege of working with leading organizations:  
-- 🏢 **Tech Mahindra**  
-- 🏢 **Fibe**  
-- 🏢 **Wipro**  
-- 🏢 **Accenture** (current)  
 
-💡 Delivered impactful **data science** and **machine learning** solutions, including **deep learning** and **NLP projects**.  
+- 🏢 **Accenture** (current)
+- 🏢 **Wipro**  
+- 🏢 **Fibe** 
+- 🏢 **Tech Mahindra**  
+ 
+
+💡 Delivered impactful **Data Science** and **Machine Learning** solutions, including **Deep Learning** and **NLP Projects**.  
 
 ---
 
