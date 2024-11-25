@@ -1,11 +1,10 @@
 # 💻 **Alok Baliarsingh**  
 
-![GitHub Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Alok's+GitHub+Profile)  
 
 👋 Hi there! Welcome to my GitHub profile!  
 I am a **Data Science Specialist** at **Accenture** with over **9 years of experience** in software development, data science, and analytics. I am passionate about deriving insights from data and building innovative AI-driven solutions.  
 
----
+---#![GitHub Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Alok's+GitHub+Profile) 
 
 ## 👨‍🎓 **Educational Background**  
 🎓 **B.Tech** in **Electronics and Instrumentation Engineering** (2013)  
